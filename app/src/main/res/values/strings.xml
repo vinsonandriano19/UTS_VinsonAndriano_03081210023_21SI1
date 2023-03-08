@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Cari</string>
+    <string name="title_notifications">Profil</string>
+</resources>
